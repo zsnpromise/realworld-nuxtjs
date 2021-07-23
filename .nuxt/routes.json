@@ -1,0 +1,51 @@
+[
+  {
+    "path": "",
+    "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "name": "home",
+        "path": "/",
+        "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/home",
+        "_name": "_12f0525d"
+      },
+      {
+        "name": "login",
+        "path": "/login",
+        "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/login",
+        "_name": "_4b5241ab"
+      },
+      {
+        "name": "register",
+        "path": "/register",
+        "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/login",
+        "_name": "_4b5241ab"
+      },
+      {
+        "name": "settings",
+        "path": "/settings",
+        "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/settings",
+        "_name": "_163b2aa1"
+      },
+      {
+        "name": "editor",
+        "path": "/editor/:slug",
+        "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/editor",
+        "_name": "_126a176b"
+      },
+      {
+        "name": "profile",
+        "path": "/profile/:username",
+        "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/profile",
+        "_name": "_ce21592a"
+      },
+      {
+        "name": "articleDetial",
+        "path": "/article/:slug",
+        "component": "/Users/zhansinan/Desktop/js/webnote/lg/Part3/lx/realworld-nuxtjs/pages/article",
+        "_name": "_7fb996b8"
+      }
+    ],
+    "_name": "_1e38f128"
+  }
+]
