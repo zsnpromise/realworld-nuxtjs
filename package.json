@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "nuxt build",
+    "start": "nuxt start",
     "dev": "nuxt"
   },
   "keywords": [],

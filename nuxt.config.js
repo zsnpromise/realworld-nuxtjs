@@ -41,5 +41,6 @@ export default {
         ])
       }
     },
+    server: {host: '0.0.0.0'},
     plugins: ['~/plugins/request.js', '~/plugins/filter.js']
 }
